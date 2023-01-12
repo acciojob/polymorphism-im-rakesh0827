@@ -13,6 +13,10 @@ public class Main {
 
 class Product{
 
+    Product(){
+
+    }
+
     public int product(int x, int y){
         return x+y;
     }
